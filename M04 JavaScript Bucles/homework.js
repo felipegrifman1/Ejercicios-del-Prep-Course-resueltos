@@ -99,7 +99,7 @@ function esEntero(num) {
    // De lo contrario, retorna false.
    // Tu código:
    return Number.isInteger(num)
-      }
+   }
 
 
 function fizzBuzz(num) {

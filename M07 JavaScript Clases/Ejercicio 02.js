@@ -15,7 +15,7 @@ class Persona {
       }
       detalle(){
          return{
-            nombre: this.nombre,
+         nombre: this.nombre,
          apellido: this.apellido,
          edad: this.edad,
          domicilio: this.domicilio
